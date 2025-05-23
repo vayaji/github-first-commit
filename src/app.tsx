@@ -5,7 +5,7 @@ export function App() {
   const [url, setUrl] = useState<string>("");
   const [logs, setLogs] = useState<string[]>([]);
   const [firstCommitUrl, setFirstCommitUrl] = useState<string>("");
-  const { reward, isAnimating } = useReward("rewardId", "confetti");
+  const { reward } = useReward("rewardId", "confetti");
   const [buttonText, setButtonText] = useState<string>("Get first commit!");
   const [isSuccess, setIsSuccess] = useState(false);
 
