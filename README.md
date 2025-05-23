@@ -8,5 +8,5 @@ GitHub API を使って、GitHub のリポジトリの最初のコミッ�
 
 -   [Preact](https://preactjs.com/)
 -   [TailwindCSS](https://tailwindcss.com/)
--   [Vite](https://vitejs.dev/)
+-   [Vite](https://vite.dev/)
 -   [Vercel](https://vercel.com/)
