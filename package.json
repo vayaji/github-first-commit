@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "preact": "^10.26.5"
+    "@tailwindcss/vite": "^4.1.7",
+    "preact": "^10.26.5",
+    "tailwindcss": "^4.1.7"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
